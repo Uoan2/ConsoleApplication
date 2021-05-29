@@ -1,0 +1,16 @@
+{
+    "name": "dmitry-fedorov/console-test",
+    "authors": [
+        {
+            "name": "Dmitry Fedorov",
+            "email": "1chandencem@inbox.ru"
+        }
+    ],
+    "version": "1.0",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "DmitryFedorov\\ConsoleTest\\":"src/"
+        }
+    }
+}
